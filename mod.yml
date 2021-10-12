@@ -1,0 +1,12 @@
+title: Sora's in Smash!!!!!!!!!!!11111111222211
+description: So yeah, Sora's in smash 
+originalAuthor: Joshua Marinelli
+logo: icon.png
+assets:
+- name: menu/fm/title.2ld
+  method: copy
+  source:
+  - name: menu/title.2ld
+
+
+  
